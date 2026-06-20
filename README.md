@@ -12,9 +12,10 @@ PISO is a local web application designed to help you organize your debts and inv
 
 Getting started is extremely simple:
 
-1. Click the green **`<> Code`** button at the top right of this repository page and select **Download ZIP**.
-2. Extract the downloaded ZIP folder anywhere on your computer.
-3. Open the extracted folder.
+1. Open your terminal or command prompt.
+2. Clone this repository by running: 
+   `git clone https://github.com/elijahverinya22/PISO-Web-Application.git`
+3. Open the downloaded `PISO-Web-Application` folder.
 4. Double-click the **`setup.bat`** file.
 
 **That's it!** The setup script will automatically install any necessary backend dependencies, launch the local server, and automatically open the application in your default web browser.
