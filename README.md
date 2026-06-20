@@ -16,7 +16,7 @@ Getting started is extremely simple:
 2. Clone this repository by running: 
    `git clone https://github.com/elijahverinya22/PISO-Web-Application.git`
 3. Open the downloaded `PISO-Web-Application` folder.
-4. Double-click the **`setup.bat`** file.
+4. Double-click the **`run.bat`** file.
 
 **That's it!** The setup script will automatically install any necessary backend dependencies, launch the local server, and automatically open the application in your default web browser.
 
