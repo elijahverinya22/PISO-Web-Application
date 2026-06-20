@@ -16,7 +16,7 @@ if %ERRORLEVEL% neq 0 (
 
 echo.
 echo Step 2: Installing required dependencies...
-pip install -r requirements.txt
+pip install -r Files\requirements.txt
 if %ERRORLEVEL% neq 0 (
     echo.
     echo ERROR: Failed to install dependencies.
